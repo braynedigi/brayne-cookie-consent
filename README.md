@@ -1,6 +1,6 @@
 # Brayne Cookie Consent
 
-A lightweight WordPress plugin that displays a cookie consent banner on your site.
+Easy to configure cookie consent banner with GDPR and CCPA law support. Professional design with ADVANCED RESPONSIVE customization for Desktop, Tablet, and Mobile. Zero coding required.
 
 ## Installation
 1. Upload the plugin folder to `wp-content/plugins/`
